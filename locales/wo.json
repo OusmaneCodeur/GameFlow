@@ -1,0 +1,56 @@
+{
+  "common": {
+    "appName": "GameFlow",
+    "loading": "Yebbi na...",
+    "search": "Wutal...",
+    "welcome": "Dalal ak jamm",
+    "language": "Làkk",
+    "today": "Tey",
+    "tomorrow": "Suba",
+    "live": "Dund",
+    "favorite": "Tann bu neex"
+  },
+  "nav": {
+    "home": "Kër",
+    "events": "Xew-xew yi",
+    "map": "Kàrt",
+    "assistant": "Ndimbal",
+    "profile": "Sa xarit"
+  },
+  "home": {
+    "title": "Bu bees bi",
+    "recommended": "Li nu lay digal",
+    "nearby": "Ci wet gi",
+    "seeAll": "Gis lépp"
+  },
+  "events": {
+    "title": "Xew-xew yi",
+    "subtitle": "Gis xew-xew JOJ yi yépp",
+    "searchPlaceholder": "Wutal benn xew-xew...",
+    "filterBySport": "Sàccale ci sport",
+    "filterByDate": "Sàccale ci bés",
+    "filterByLocation": "Sàccale ci barab",
+    "activeFilter": "Sàccale bi:",
+    "none": "Amul xew-xew bu am",
+    "addToFavorites": "Yokk ci tann yi",
+    "removeFromFavorites": "Dindi ci tann yi"
+  },
+  "assistant": {
+    "title": "Ndimbal IA",
+    "subtitle": "Mungi fii ngir dimbali la",
+    "quickSuggestions": "Digal yu gaaw",
+    "placeholder": "Laaj sa laaj...",
+    "name": "GameFlow IA",
+    "history": "Jaar-jaar",
+    "emptyHistory": "Amul waxtaan wuñu denc."
+  },
+  "map": {
+    "searchPlaceholder": "Wutal benn barab...",
+    "crowd": "Nit ñi",
+    "low": "Néew",
+    "medium": "Digg",
+    "high": "Bari",
+    "travelTime": "Diir bu yoon",
+    "distance": "Sori"
+  }
+}

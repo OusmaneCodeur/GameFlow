@@ -1,0 +1,56 @@
+{
+  "common": {
+    "appName": "GameFlow",
+    "loading": "Chargement...",
+    "search": "Rechercher...",
+    "welcome": "Bienvenue",
+    "language": "Langue",
+    "today": "Aujourd'hui",
+    "tomorrow": "Demain",
+    "live": "Live",
+    "favorite": "Favori"
+  },
+  "nav": {
+    "home": "Accueil",
+    "events": "Événements",
+    "map": "Carte",
+    "assistant": "Assistant",
+    "profile": "Profil"
+  },
+  "home": {
+    "title": "À ne pas manquer",
+    "recommended": "Recommandé pour vous",
+    "nearby": "À proximité",
+    "seeAll": "Voir tout"
+  },
+  "events": {
+    "title": "Événements",
+    "subtitle": "Découvrez tous les événements JOJ",
+    "searchPlaceholder": "Rechercher un événement...",
+    "filterBySport": "Filtrer par sport",
+    "filterByDate": "Filtrer par date",
+    "filterByLocation": "Filtrer par lieu",
+    "activeFilter": "Filtre actif:",
+    "none": "Aucun événement trouvé",
+    "addToFavorites": "Ajouter aux favoris",
+    "removeFromFavorites": "Retirer des favoris"
+  },
+  "assistant": {
+    "title": "Assistant IA",
+    "subtitle": "Toujours là pour vous aider",
+    "quickSuggestions": "Suggestions rapides",
+    "placeholder": "Posez votre question...",
+    "name": "GameFlow IA",
+    "history": "Historique",
+    "emptyHistory": "Aucune conversation enregistrée."
+  },
+  "map": {
+    "searchPlaceholder": "Rechercher un lieu...",
+    "crowd": "Affluence",
+    "low": "Faible",
+    "medium": "Moyenne",
+    "high": "Élevée",
+    "travelTime": "Temps de trajet",
+    "distance": "Distance"
+  }
+}

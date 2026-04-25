@@ -1,0 +1,56 @@
+{
+  "common": {
+    "appName": "GameFlow",
+    "loading": "Loading...",
+    "search": "Search...",
+    "welcome": "Welcome",
+    "language": "Language",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "live": "Live",
+    "favorite": "Favorite"
+  },
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "map": "Map",
+    "assistant": "Assistant",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Don't Miss",
+    "recommended": "Recommended for you",
+    "nearby": "Nearby",
+    "seeAll": "See all"
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Discover all YOG events",
+    "searchPlaceholder": "Search an event...",
+    "filterBySport": "Filter by sport",
+    "filterByDate": "Filter by date",
+    "filterByLocation": "Filter by location",
+    "activeFilter": "Active filter:",
+    "none": "No events found",
+    "addToFavorites": "Add to favorites",
+    "removeFromFavorites": "Remove from favorites"
+  },
+  "assistant": {
+    "title": "AI Assistant",
+    "subtitle": "Always here to help",
+    "quickSuggestions": "Quick suggestions",
+    "placeholder": "Ask your question...",
+    "name": "GameFlow AI",
+    "history": "History",
+    "emptyHistory": "No saved conversation."
+  },
+  "map": {
+    "searchPlaceholder": "Search a location...",
+    "crowd": "Crowd",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "travelTime": "Travel time",
+    "distance": "Distance"
+  }
+}
