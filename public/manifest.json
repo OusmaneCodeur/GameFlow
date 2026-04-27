@@ -1,21 +1,24 @@
 {
-  "name": "GameFlow - JOJ Sénégal 2026",
+  "name": "GameFlow",
   "short_name": "GameFlow",
-  "description": "Vivez les Jeux Olympiques de la Jeunesse autrement",
+  "description": "Plateforme JOJ Sénégal",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0c80c3",
-  "theme_color": "#0c80c3",
+  "background_color": "#000000",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/logoGameflow-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/logoGameflow-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
